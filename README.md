@@ -18,3 +18,6 @@ https://public.tableau.com/views/book2_16959999047760/Story1?:language=en-US&:di
 
 Video Demonstration Link-
 https://drive.google.com/file/d/1h2bDrKVM7zZLIgoQjuCM2keKYzuUj1fH/view?usp=share_link
+
+Project report link-
+https://docs.google.com/document/d/1A6IYqaTxrsCChsQgNa8iHutuf5AO0QTwptprncBRJK0/edit?usp=sharing
